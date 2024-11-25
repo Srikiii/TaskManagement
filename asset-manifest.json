@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TaskManagement/static/css/main.b7245ccc.css",
-    "main.js": "/TaskManagement/static/js/main.66e961c1.js",
-    "static/js/453.8ab44547.chunk.js": "/TaskManagement/static/js/453.8ab44547.chunk.js",
-    "static/media/img1.png": "/TaskManagement/static/media/img1.8cfce3f077486fe21c6c.png",
-    "index.html": "/TaskManagement/index.html",
-    "main.b7245ccc.css.map": "/TaskManagement/static/css/main.b7245ccc.css.map",
-    "main.66e961c1.js.map": "/TaskManagement/static/js/main.66e961c1.js.map",
-    "453.8ab44547.chunk.js.map": "/TaskManagement/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/Rect-Task/static/css/main.b7245ccc.css",
+    "main.js": "/Rect-Task/static/js/main.504bbdb4.js",
+    "static/js/453.8ab44547.chunk.js": "/Rect-Task/static/js/453.8ab44547.chunk.js",
+    "static/media/img1.png": "/Rect-Task/static/media/img1.8cfce3f077486fe21c6c.png",
+    "index.html": "/Rect-Task/index.html",
+    "main.b7245ccc.css.map": "/Rect-Task/static/css/main.b7245ccc.css.map",
+    "main.504bbdb4.js.map": "/Rect-Task/static/js/main.504bbdb4.js.map",
+    "453.8ab44547.chunk.js.map": "/Rect-Task/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7245ccc.css",
-    "static/js/main.66e961c1.js"
+    "static/js/main.504bbdb4.js"
   ]
 }
